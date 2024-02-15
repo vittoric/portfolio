@@ -11,11 +11,11 @@ export default function About() {
         {" "}
         As a student at 42 Madrid, I have a strong passion for coding and
         developing new projects, and this repository is a showcase of my latest
-        work. Here you&apos;ll find a diverse range of projects, from simple scripts
+        work. Here you will find a diverse range of projects, from simple scripts
         to complex applications, covering various programming languages and
         tools. Some of the projects include detailed documentation and
         instructions for getting started, making them accessible to developers.
-        Whether you&apos;re a seasoned developer or just starting out, I invite you
+        Whether you are a seasoned developer or just starting out, I invite you
         to explore my code, fork the projects, and contribute as you see fit.
         With your help, we can create something truly amazing together. Thank
         you for stopping by, and happy coding!{" "}
