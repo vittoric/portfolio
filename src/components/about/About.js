@@ -3,7 +3,7 @@ import Link from "next/link";
 
 export default function About() {
   return (
-    <div className="bg-cv-dark p-8 m-8 rounded-xl flex-col  w-1/2 flex md:flex-row gap-4 item-center justify-center mx-auto animate-fade-up animate-once animate-duration-1000 animate-delay-500">
+    <div className=" animateGradient  bg-gradient-radial from-lime-500 to-pink-500 p-8 m-8 rounded-xl flex-col  w-1/2 flex md:flex-row gap-4 item-center justify-center mx-auto animate-fade-up animate-once animate-duration-1000 animate-delay-500">
      <div>
       <h1>About</h1>
       <br/>
@@ -22,7 +22,7 @@ export default function About() {
       </p>
       </div>
       
-    <Image src="/frog.png" className="bg-red-200 object-cover rounded-2xl" alt="42" width={200} height={200} />
+    <Image src="/frog.png" className=" bg-red-200 object-cover rounded-2xl" alt="42" width={200} height={200} />
     </div>
   );
 }
