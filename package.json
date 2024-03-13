@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@splinetool/react-spline": "^2.2.6",
+    "@vercel/analytics": "^1.2.2",
     "next": "14.1.0",
     "next-themes": "^0.2.1",
     "react": "^18",
