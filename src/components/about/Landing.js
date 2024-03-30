@@ -7,7 +7,7 @@ import Image from "next/image";
 export default function Landing() {
   return (
    <Link href="/about">
-      <div className="h-screen ">
+      <div className="h-screen sm:flex-col sm:items-center">
         <SplineComponent />
       </div>
     </Link>
