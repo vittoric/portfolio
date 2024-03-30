@@ -12,7 +12,7 @@ export default function About() {
       <div class="container mx-auto px-4 sm:px-6 lg:px-8">
       <nav class="flex items-center justify-between py-8">
         <div class="logo">
-          <a href="/about"><img class="w-32" src="/logo.svg" alt="" /></a>
+          <a href="/about"><Image class="w-32" src="/logo.svg" alt="" /></a>
         </div>
         <ul class="hidden md:flex flex-row gap-10">
           <li class="text-sm font-rubik font-normal text-white uppercase">
@@ -100,7 +100,7 @@ export default function About() {
         </div>
         <div data-aos="fade-left"
         data-aos-duration="1000">
-          <img
+          <Image
             class="w-full h-full object-contain"
             src="/vica.png"
             alt="profile"
@@ -155,7 +155,7 @@ export default function About() {
       </div>
      <div class="flex flex-row items-center justify-between"> 
         <div class="my-auto">
-          <img class="w-36 h-6" src="/logo.svg" alt="" />
+          <Image class="w-36 h-6" src="/logo.svg" alt="" />
         </div>
       </div>
       <hr class="h-px my-8 bg-gray-200 border-0 dark:bg-gray-700" />
@@ -169,8 +169,6 @@ export default function About() {
         </a>
       </p>
     </footer>
-    <script src="./main.js" type="module" charset="utf-8"></script>
-
 
       </div>
     </>
